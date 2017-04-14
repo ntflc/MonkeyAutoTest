@@ -1,0 +1,8 @@
+.idea
+libs/*.pyc
+utils/*.pyc
+apks/*
+!apks/simiasque-debug.apk
+!apks/wifimanager-debug.apk
+logs/*
+history_logs/*
